@@ -1,4 +1,5 @@
 
+
 # PART 1 - CONTENTS
 
 # This file contains two functions: cacheMatrix and cacheInverse.
@@ -19,7 +20,6 @@
 #       [,1]   [,2]
 #  [1,] -0.125  0.375
 #  [2,]  0.375 -0.125
-
 
 
 # PART 2 - FUNCTIONS
