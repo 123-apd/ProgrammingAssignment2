@@ -1,3 +1,6 @@
+
+# PART 1 - CONTENTS
+
 # This file contains two functions: cacheMatrix and cacheInverse.
 # Combined, they make it possible to cache a matrix along with its inverse.
 # Below are two examples to show how the functions work.
@@ -16,6 +19,10 @@
 #       [,1]   [,2]
 #  [1,] -0.125  0.375
 #  [2,]  0.375 -0.125
+
+
+
+# PART 2 - FUNCTIONS
 
 ## Function 1 - CacheMatrix
 #  This function takes a matrix as its argument.
